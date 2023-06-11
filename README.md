@@ -33,6 +33,7 @@
 
 ### <img width="3%" title="Allure Report" src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4"> Allure report
 ##### After passing the tests, the results can be viewed in the Allure report.
+![Overview](images/allure.png)  
 
 
 ##### In the Behaviors tab there are collected test cases, which describe the steps. UI tests have attachments: screenshot, test video, log and page_source.
@@ -57,7 +58,7 @@
 - Add manual tests, etc.
 
 ![tests](images/allure.test%20cases.png)   
-https://github.com/Oljaja/ga_guru_diplom_UI-main/blob/main/images/allure.test%20cases.png
+
 
 ### <img width="3%" title="Jira" src="https://logojinni.com/image/logos/jira-3.svg"> [Jira Integration](https://jira.autotests.cloud/browse/HOMEWORK-658)
 ##### Having set up integration with Jira through Allure TestOps, you can forward the result of passing tests and a list of test cases from Allure to a ticket
