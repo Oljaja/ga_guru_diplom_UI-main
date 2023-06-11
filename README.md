@@ -27,16 +27,20 @@
 ### <img width="3%" title="Jenkins" src="https://avatars.githubusercontent.com/u/2520748?v=4"> [Running a project in Jenkins](https://jenkins.autotests.cloud/job/qaguru_diploma_ui/)
 ##### Implemented parameterized assembly, to run the project you need to select a browser and its version.
 
+![Jenkins_run](/[images/jenkinss.png)
+
 
 
 
 
 ### <img width="3%" title="Allure Report" src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4"> Allure report
 ##### After passing the tests, the results can be viewed in the Allure report.
-![Overview](images/allure.png)  
+![Overview](images/alluree.png)  
 
 
 ##### In the Behaviors tab there are collected test cases, which describe the steps. UI tests have attachments: screenshot, test video, log and page_source.
+
+![Behaviors](images/alluree1.png)
 
 
 ##### Test video Hint for text field.
@@ -48,7 +52,8 @@
 ### <img width="3%" title="Allure TestOps" src="https://marketplace-cdn.atlassian.com/files/92e2d8c3-2a30-46c0-bf21-2453a4a270d3?fileType=image&mode=full- fit"> [Integration with Allure TestOps](https://allure.autotests.cloud/project/2140/dashboards)
 
 ##### Also, all reporting is saved in Allure TestOps, where similar graphs are built.
-![Graf](images/Testo.png)
+
+![Graf](images/alluree.Testo.png)
 
 
 #### In the suites tab, we can:
@@ -57,8 +62,12 @@
 - Set up integration with Jira
 - Add manual tests, etc.
 
-![tests](images/allure.test%20cases.png)   
+
+![tests](images/alluree.test%20cases.png)   
 
 
 ### <img width="3%" title="Jira" src="https://logojinni.com/image/logos/jira-3.svg"> [Jira Integration](https://jira.autotests.cloud/browse/HOMEWORK-658)
 ##### Having set up integration with Jira through Allure TestOps, you can forward the result of passing tests and a list of test cases from Allure to a ticket
+
+![Jira](images/jiraa.png)
+
