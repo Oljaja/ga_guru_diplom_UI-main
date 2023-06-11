@@ -48,7 +48,7 @@
 
 ##### Also, all reporting is saved in Allure TestOps, where similar graphs are built.
 ![Graf](images/Testo.png)
-![Alt text](images/Testo.png)
+
 
 #### In the suites tab, we can:
 - Manage all test cases or each separately
