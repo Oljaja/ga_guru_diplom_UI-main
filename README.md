@@ -47,8 +47,8 @@
 ### <img width="3%" title="Allure TestOps" src="https://marketplace-cdn.atlassian.com/files/92e2d8c3-2a30-46c0-bf21-2453a4a270d3?fileType=image&mode=full- fit"> [Integration with Allure TestOps](https://allure.autotests.cloud/project/2140/dashboards)
 
 ##### Also, all reporting is saved in Allure TestOps, where similar graphs are built.
-
 ![Graf](images/Testo.png)
+![Alt text](images/Testo.png)
 
 #### In the suites tab, we can:
 - Manage all test cases or each separately
