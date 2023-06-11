@@ -47,6 +47,7 @@
 ### <img width="3%" title="Allure TestOps" src="https://marketplace-cdn.atlassian.com/files/92e2d8c3-2a30-46c0-bf21-2453a4a270d3?fileType=image&mode=full- fit"> [Integration with Allure TestOps](https://allure.autotests.cloud/project/2140/dashboards)
 
 ##### Also, all reporting is saved in Allure TestOps, where similar graphs are built.
+https://github.com/Oljaja/ga_guru_diplom_UI-main/blob/main/images/allure.Testo.png
 
 
 #### In the suites tab, we can:
