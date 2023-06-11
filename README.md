@@ -56,7 +56,8 @@
 - Set up integration with Jira
 - Add manual tests, etc.
 
-![tests](images/test cases.png)   
+![tests](images/allure.test%20cases.png)   
+https://github.com/Oljaja/ga_guru_diplom_UI-main/blob/main/images/allure.test%20cases.png
 
 ### <img width="3%" title="Jira" src="https://logojinni.com/image/logos/jira-3.svg"> [Jira Integration](https://jira.autotests.cloud/browse/HOMEWORK-658)
 ##### Having set up integration with Jira through Allure TestOps, you can forward the result of passing tests and a list of test cases from Allure to a ticket
