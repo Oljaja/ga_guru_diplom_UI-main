@@ -24,7 +24,7 @@
 <br>
 
 
-### <img width="3%" title="Jenkins" src="https://avatars.githubusercontent.com/u/2520748?v=4"> [Running a project in Jenkins](https://jenkins.autotests.cloud/job/qaguru_diploma_ui/)
+### <img width="3%" title="Jenkins" src="https://avatars.githubusercontent.com/u/2520748?v=4"> [Running a project in Jenkins](https://jenkins.autotests.cloud/job/Students/job/Oljaja_ga_guru_diplom_UI-main/)
 ##### Implemented parameterized assembly, to run the project you need to select a browser and its version.
 
 ![Jenkins_run](images/jenkinss.png)
@@ -51,7 +51,7 @@ https://user-images.githubusercontent.com/87572795/228360684-d7342cc6-eede-4396-
 
 
 
-### <img width="3%" title="Allure TestOps" src="https://marketplace-cdn.atlassian.com/files/92e2d8c3-2a30-46c0-bf21-2453a4a270d3?fileType=image&mode=full- fit"> [Integration with Allure TestOps](https://allure.autotests.cloud/project/2140/dashboards)
+### <img width="3%" title="Allure TestOps" src="https://marketplace-cdn.atlassian.com/files/92e2d8c3-2a30-46c0-bf21-2453a4a270d3?fileType=image&mode=full- fit"> [Integration with Allure TestOps](https://allure.autotests.cloud/project/2820/jobs)
 
 ##### Also, all reporting is saved in Allure TestOps, where similar graphs are built.
 
@@ -69,7 +69,7 @@ https://user-images.githubusercontent.com/87572795/228360684-d7342cc6-eede-4396-
 ![tests](images/alluree.test%20cases.png)   
 
 
-### <img width="3%" title="Jira" src="https://logojinni.com/image/logos/jira-3.svg"> [Jira Integration](https://jira.autotests.cloud/browse/HOMEWORK-658)
+### <img width="3%" title="Jira" src="https://logojinni.com/image/logos/jira-3.svg"> (https://jira.autotests.cloud/browse/HOMEWORK-731)
 ##### Having set up integration with Jira through Allure TestOps, you can forward the result of passing tests and a list of test cases from Allure to a ticket
 
 ![Jira](images/jiraa.png)
