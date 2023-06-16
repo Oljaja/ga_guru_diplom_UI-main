@@ -69,7 +69,7 @@ https://user-images.githubusercontent.com/87572795/228360684-d7342cc6-eede-4396-
 ![tests](images/alluree.test%20cases.png)   
 
 
-### <img width="3%" title="Jira" src="https://logojinni.com/image/logos/jira-3.svg"> (https://jira.autotests.cloud/browse/HOMEWORK-731)
+### <img width="3%" title="Jira" src="https://logojinni.com/image/logos/jira-3.svg"> [Jira Integration](https://jira.autotests.cloud/browse/HOMEWORK-731)
 ##### Having set up integration with Jira through Allure TestOps, you can forward the result of passing tests and a list of test cases from Allure to a ticket
 
 ![Jira](images/jiraa.png)
